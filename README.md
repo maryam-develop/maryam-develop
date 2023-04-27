@@ -1,6 +1,8 @@
+<img align="center" src="https://i.stack.imgur.com/Cby2r.png?s=256&g=1" alt="Miss Maryam">
+
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://i.stack.imgur.com/Cby2r.png?s=256&g=1" alt="Miss Maryam">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam-develop&label=Profile%20views&color=0e75b6&style=flat" alt="maryam-develop" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryam-develop" alt="maryam-develop" /></a> </p>
