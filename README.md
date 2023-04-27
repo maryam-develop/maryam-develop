@@ -1,4 +1,4 @@
-<img align="center" src="https://i.stack.imgur.com/Cby2r.png?s=256&g=1" alt="Miss Maryam">
+
 
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
